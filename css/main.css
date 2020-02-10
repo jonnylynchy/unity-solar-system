@@ -1,0 +1,13 @@
+body {
+    font-family: Helvetica, Verdana, Arial, sans-serif;
+    color: #fff;
+    background-color: #000;
+}
+
+h1 {
+    font-weight: normal;
+}
+
+#gameContainer {
+    border: 1px solid #333 !important;
+}
